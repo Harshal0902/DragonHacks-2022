@@ -7,7 +7,7 @@ export default function Navbar() {
     const [showNavbar, setShowNavbar] = React.useState(false);
 
     return (
-        <div >
+        <div classname="font-montserrat">
             <nav className="flex items-center py-2 flex-wrap px-4 text-fontColor tracking-wider">
                 <Link to="/"><span className="p-2 mr-4 inline-flex items-center text-4xl md:text-5xl cursor-pointer font-base text-white">APP NAME
                 </span></Link>
@@ -41,11 +41,11 @@ export default function Navbar() {
                                     >
 
                                         <Link to="/">
-                                            <span className="lg:inline-flex px-3 mx-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">Home</span>
+                                            <span className="lg:inline-flex px-3 mx-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-tertiary cursor-pointer text-white">Home</span>
                                         </Link>
 
                                         <Link to="/upload">
-                                            <span className="lg:inline-flex px-3 mx-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">Upload</span>
+                                            <span className="lg:inline-flex px-3 mx-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-tertiary cursor-pointer text-white">Upload</span>
                                         </Link>
 
                                     </div>
@@ -61,11 +61,11 @@ export default function Navbar() {
                     <div className="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full text-xl lg:items-center items-start flex flex-col lg:h-auto space-x-2 mr-12" >
 
                         <Link to="/">
-                            <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">Home</span>
+                            <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-tertiary cursor-pointer text-white">Home</span>
                         </Link>
 
                         <Link to="/upload">
-                            <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">Upload</span>
+                            <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-tertiary cursor-pointer text-white">Upload</span>
                         </Link>
 
                     </div>
