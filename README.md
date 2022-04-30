@@ -18,10 +18,10 @@
 We are using GitHub for the following reasons:
 
 - Collaboration: GitHub makes it easy to share code with others and helps a lot in collaboration.
-- GitHub Project: We also used GitHub for planning and keeping track of our project and its progress with the help of the GitHub project management tool.
-- Implementing the CI/CD workflow: GitHub makes it easy to implement the CI/CD workflow and makes the deployment process easy.
+- GitHub Project: We also used GitHub for **planning and keeping track** of our project and its progress with the help of the GitHub project management tool.
+- Implementing the CI/CD workflow: GitHub makes it easy to implement the **CI/CD workflow** and makes the deployment process easy.
 - Deploying the project: Deploying the project on GitHub helped us to get the project deployed on the network to be accessed by other people.
-- Using PRs and Issues: We are doing multiple PRs and building multiple issues to keep on track of the project.
+- Using PRs and Issues: We are doing multiple **PRs** and building multiple **Issues** to keep on track of the project.
 
 ## 📧 Most Creative Use of Twilio
 
