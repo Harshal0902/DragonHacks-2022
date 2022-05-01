@@ -1,4 +1,5 @@
-import React, { useRef, useEffect } from "react"
+import React, { useRef, useEffect, useState } from "react"
+import * as tf from "@tensorflow/tfjs";
 import * as cocossd from "@tensorflow-models/coco-ssd"
 import Webcam from "react-webcam"
 import { drawRect } from "../utilities/utilities";
@@ -40,6 +41,12 @@ function Uload() {
 
     useEffect(() => { runCoco() }, []);
 
+    const [dropdown, setDropDown] = React.useState(false);
+
+    const handleCLick = async () => {
+        setDropDown(!dropdown);
+    };
+
     return (
         <div className="text-center font-montserrat">
             <header className="min-h-screen flex flex-col items-center justify-center text-white text-2xl">
@@ -74,6 +81,13 @@ function Uload() {
                     }}
                 />
             </header>
+
+            <div className="-mt-28">
+                <button className='bg-primary text-xl px-4 py-2 rounded-md font-semibold' onClick={handleCLick}>Capture</button>
+                {dropdown && (
+                    <div className="py-2 text-lg text-white">The item is recyclable</div>
+                )}
+            </div>
         </div>
     );
 }

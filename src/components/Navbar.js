@@ -65,7 +65,7 @@ export default function Navbar() {
                         </Link>
 
                         <Link to="/upload">
-                            <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-tertiary cursor-pointer text-white">Upload</span>
+                            <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-tertiary cursor-pointer text-white">Capture</span>
                         </Link>
 
                     </div>
