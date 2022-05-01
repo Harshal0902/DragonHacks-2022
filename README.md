@@ -1,10 +1,17 @@
 # Greenr
 
 ## 💡 Inspiration
-We got inspired from the things around us which can be recycled but are thrown away and are eventually are burnt or dumped into rivers which causes pollution and health problems not only to humans but aquatic animals as well.
+
+We got inspired by the things around us which can be recycled but are thrown away and are eventually burnt or dumped into rivers which causes pollution and health problems not only to humans but to aquatic animals as well. We want to help people to reduce the amount of waste and to make the environment cleaner and healthier.
 
 ## 💻 What it does
-Our WebApp gets the images from the user and tell why that thing can be recycled and what you can do to do it. 
+
+Greenr is a web app where you can:
+
+- Find that the object is recyclable.
+- Find that the object is non-recyclable.
+- Classify the objects in real-time.
+- Get the notification email for the nearby recycling center.
 
 ## ⚙️ How we built it
 
@@ -14,7 +21,6 @@ Our WebApp gets the images from the user and tell why that thing can be recycled
 - Tensorflow: For object detection
 
 ## 🌳 Best Environmental Hack
-
 
 ## 🤝 Most Creative Use of GitHub
 
@@ -29,20 +35,25 @@ We are using GitHub for the following reasons:
 ## 📧 Most Creative Use of Twilio
 
 ## 🌐 Best Domain Name from Domain.com
-GetGreenrWith.tech
+
+- GetGreenrWith.tech
 
 ## 🧠 Challenges we ran into
 
 - Due to the difference in the time zone it was a bit difficult to collaborate but we managed to get the project done in time. Complete the project in the given time frame.
+- None of the teammates were good at ML, we had to do a lot of research while working on the project.
 
 ## 🏅 Accomplishments that we're proud of
 
 - Completing the project in the given time frame.
+- Implementing the Object Detection and Classification model.
 
 ## 📖 What we learned
 
 - Collaboration with other developers.
+- How to work with Tensorflow.js for object detection.
 
 ## 🚀 What's next for Greenr
 
 - Making a mobile app.
+- Improving the accuracy of the model
