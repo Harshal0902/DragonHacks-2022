@@ -1,8 +1,10 @@
 # Greenr
 
 ## 💡 Inspiration
+We got inspired from the things around us which can be recycled but are thrown away and are eventually are burnt or dumped into rivers which causes pollution and health problems not only to humans but aquatic animals as well.
 
 ## 💻 What it does
+Our WebApp gets the images from the user and tell why that thing can be recycled and what you can do to do it. 
 
 ## ⚙️ How we built it
 
@@ -12,6 +14,7 @@
 - Tensorflow: For object detection
 
 ## 🌳 Best Environmental Hack
+
 
 ## 🤝 Most Creative Use of GitHub
 
@@ -26,8 +29,7 @@ We are using GitHub for the following reasons:
 ## 📧 Most Creative Use of Twilio
 
 ## 🌐 Best Domain Name from Domain.com
-
-- Any domain name with a .tech extension available on Domain.com
+GetGreenrWith.tech
 
 ## 🧠 Challenges we ran into
 
