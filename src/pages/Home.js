@@ -13,7 +13,7 @@ export default function Home() {
                     <p className='text-xl md:text-2xl py-4 tracking-wider'>About the app</p>
 
                     <Link to="/upload">
-                        <button className='bg-primary font-semibold py-2 px-8 rounded-md text-xl md:text-2xl'>Upload Image</button>
+                        <button className='bg-primary font-semibold py-2 px-8 rounded-md text-xl md:text-2xl'>Capture Image</button>
                     </Link>
 
                 </div>
