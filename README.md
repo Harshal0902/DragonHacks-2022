@@ -39,7 +39,7 @@ We are using GitHub for the following reasons:
 
 ## 🧠 Challenges we ran into
 
-- Due to the difference in the time zone it was a bit difficult to collaborate but we managed to get the project done in time. Complete the project in the given time frame.
+- Due to the difference in the time zone it was a bit difficult to collaborate but we managed to get the project done in time.
 - None of the teammates were good at ML, we had to do a lot of research while working on the project.
 
 ## 🏅 Accomplishments that we're proud of
@@ -55,4 +55,6 @@ We are using GitHub for the following reasons:
 ## 🚀 What's next for Greenr
 
 - Making a mobile app.
-- Improving the accuracy of the model
+- Improving the accuracy of the model.
+- We want to implement Twilio and Google Maps API to send a message to the users about the nearest places to recylce their trash.
+- We also want to use Coil and DeSo to reward users after recycling 50 items to encourage them to keep recycling.
