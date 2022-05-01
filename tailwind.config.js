@@ -9,9 +9,6 @@ module.exports = {
         secondary: "#017371",
         tertiary: "#0E87CC",
       },
-      zIndex: {
-        "-1": "-1",
-      },
       spacing: {
         '128': '40rem',
         '256': '80rem',
