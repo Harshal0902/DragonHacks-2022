@@ -21,6 +21,7 @@ Greenr is a web app where you can:
 - Tensorflow: For object detection
 
 ## 🌳 Best Environmental Hack
+We created Best Environmental Hack as we made use of machine Learning for an environmental cause like recycling of products. With our app you can find the object which is recyclable and non-recyclable in real-time and then get an email for nearby recycling center.
 
 ## 🤝 Most Creative Use of GitHub
 
@@ -31,8 +32,6 @@ We are using GitHub for the following reasons:
 - Implementing the CI/CD workflow: GitHub makes it easy to implement the **CI/CD workflow** and makes the deployment process easy.
 - Deploying the project: Deploying the project on GitHub helped us to get the project deployed on the network to be accessed by other people.
 - Using PRs and Issues: We are doing multiple **PRs** and building multiple **Issues** to keep on track of the project.
-
-## 📧 Most Creative Use of Twilio
 
 ## 🌐 Best Domain Name from Domain.com
 
