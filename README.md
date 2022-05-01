@@ -1,4 +1,4 @@
-# APP NAME
+# Greenr
 
 ## 💡 Inspiration
 
@@ -41,6 +41,6 @@ We are using GitHub for the following reasons:
 
 - Collaboration with other developers.
 
-## 🚀 What's next for APP NAME
+## 🚀 What's next for Greenr
 
 - Making a mobile app.
